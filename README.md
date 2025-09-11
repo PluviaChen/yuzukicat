@@ -19,11 +19,11 @@ In a world that hums a tune I cannot echo, I am a silent cat slipping through un
 
 - Your stars and follows are the biggest support to me.
 - BTC: `bc1ptekycew5a96m2amxpqynpqfp3zz0qglfmku92pe40zv35sx9hvsq998vd2`
-  [](./_img/btc.jpg)
+  [BTC](./_img/btc.jpg)
 - ERC20 / Ethereum: `qwqaq.uni.eth`
   (`0xbC6CBc59d24f05436A42d3A72d37a344BBe7C983`)
-  [](./_img/erc20.jpg)
+  [ERC20](./_img/erc20.jpg)
 - TON: `UQChIUMn2aaPkZw-2ATk3GEkypLsEEq8GrS5XathVXBzhb1U`
-  [](./_img/ton.jpg)
+  [TON](./_img/ton.jpg)
 
 </details>

@@ -15,11 +15,12 @@ In a world that hums a tune I cannot echo, I am a silent cat slipping through un
 </a>
 
 <details>
-<summary><small>Buy me a ☕️ if you like my projects</small></summary>
+<summary><small>Give me some food if you like my projects</small></summary>
 
-- Your stars and follows are the biggest support to me! Thanks!
+- Your stars and follows are the biggest support to me.
 - BTC: `bc1ptekycew5a96m2amxpqynpqfp3zz0qglfmku92pe40zv35sx9hvsq998vd2`
-- ETH: `qwqaq.uni.eth`
+- ERC20 / Ethereum: `qwqaq.uni.eth`
   (`0xbC6CBc59d24f05436A42d3A72d37a344BBe7C983`)
+- TON: `UQChIUMn2aaPkZw-2ATk3GEkypLsEEq8GrS5XathVXBzhb1U`
 
 </details>
